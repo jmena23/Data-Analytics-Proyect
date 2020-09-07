@@ -1,7 +1,7 @@
 # Data-Analytics-Proyect
  Segundo proyecto Ironhack - Bootcamp Data Analytics: ¡Soy analista de datos!
 
-![bigstock-engineering-automation-buildin-39420793](https://user-images.githubusercontent.com/61025562/92395332-13fd4d80-f11b-11ea-8f88-a5ee56d78d74.jpg)
+![Building Management](https://user-images.githubusercontent.com/61025562/92395629-8a01b480-f11b-11ea-88cc-a58ee5cd1799.jpg)
 
 
 ## Objetivo
