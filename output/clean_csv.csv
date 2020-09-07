@@ -5297,11 +5297,13 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,88.0,3,2.0,False,Fa
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,75.0,3,1.0,False,False,False,219000,2920,2538.1
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,62.0,3,1.0,False,False,False,149900,2418,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,93.0,3,2.0,False,True,True,345000,3710,2928.57
+Moratalaz,District 12,Horcajo,Neighborhood 80,Áticos,False,170.0,3,2.0,False,False,True,450000,2647,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,70.0,3,2.0,False,False,False,179000,2557,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Áticos,False,123.0,3,2.0,False,True,True,575000,4675,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,60.0,3,1.0,False,False,False,148000,2467,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,108.0,3,2.0,False,True,True,345000,3194,2928.57
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,65.0,3,1.0,False,False,False,220000,3385,2928.57
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,140.0,4,2.0,False,False,True,310000,2214,1500
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,101.0,3,2.0,False,False,False,279450,2767,2538.1
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,100.0,3,2.0,False,False,False,155000,1550,2803.11
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,100.0,3,2.0,False,False,False,155000,1550,2803.11
@@ -5316,12 +5318,15 @@ Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,80.0,2,1.0,False,Fal
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,115.0,3,2.0,False,False,True,380000,3304,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,70.0,3,1.0,False,False,False,130000,1857,2319.44
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,71.0,3,1.0,False,False,False,161000,2268,2803.11
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,99.0,3,2.0,False,False,False,226000,2283,1500
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,80.0,4,1.0,False,False,False,189000,2362,2803.11
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,112.0,3,2.0,False,False,False,280000,2500,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,129.0,3,2.0,False,True,True,375000,2907,2928.57
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,122.0,3,2.0,False,False,True,385000,3156,1500
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,113.0,3,2.0,False,False,True,350000,3097,2803.11
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,94.0,3,2.0,False,False,False,161000,1713,2538.1
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,75.0,2,1.0,False,False,False,196900,2625,2538.1
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,105.0,4,2.0,False,False,True,345000,3286,1500
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,133.0,4,2.0,False,False,True,399000,3000,2928.57
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,136.0,4,2.0,False,False,False,380000,2794,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,60.0,3,1.0,False,False,False,134900,2248,2538.1
@@ -5334,11 +5339,13 @@ Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,94.0,3,1.0,False,Fal
 Moratalaz,District 12,Media Legua,Neighborhood 83,Dúplex,False,94.0,4,3.0,False,False,False,299000,3181,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,110.0,4,2.0,False,True,True,423000,3845,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,100.0,4,2.0,False,False,False,195000,1950,2319.44
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,113.0,4,2.0,False,False,True,275000,2434,1500
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,90.0,3,2.0,False,False,False,269000,2989,2928.57
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,93.0,3,2.0,False,False,False,289000,3108,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,65.0,3,1.0,False,False,False,148500,2285,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,93.0,3,2.0,False,False,False,258000,2774,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,100.0,3,1.0,False,False,False,235000,2350,2319.44
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,110.0,4,2.0,False,False,True,319000,2900,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,58.0,3,2.0,False,False,False,155000,2672,2319.44
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,109.0,4,2.0,False,False,True,349000,3202,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,156.0,3,2.0,False,True,True,375000,2404,2928.57
@@ -5361,6 +5368,8 @@ Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,112.0,4,2.0,False,Fa
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,52.0,2,1.0,False,False,False,150000,2885,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,100.0,4,1.0,False,False,False,195000,1950,2319.44
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,60.0,2,1.0,False,False,False,139900,2332,2803.11
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,69.0,1,1.0,False,True,False,177000,2565,1500
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,63.0,2,1.0,False,False,False,123000,1952,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,93.0,3,2.0,False,False,False,250000,2688,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,78.0,3,1.0,False,False,False,140000,1795,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,90.0,3,2.0,False,False,False,259000,2878,2928.57
@@ -5382,7 +5391,10 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,68.0,3,2.0,False,Fa
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,96.0,3,2.0,False,False,False,280000,2917,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,140.0,4,2.0,False,False,False,379000,2707,2928.57
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,93.0,3,1.0,False,False,False,277000,2978,2928.57
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,85.0,2,2.0,False,True,True,297000,3494,1500
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,134.0,4,2.0,False,True,True,425000,3172,1500
 Moratalaz,District 12,Media Legua,Neighborhood 83,Dúplex,False,174.0,4,3.0,False,True,True,825000,4741,2803.11
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,100.0,3,1.0,False,False,False,205000,2050,1500
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,81.0,4,1.0,False,False,False,170000,2099,2803.11
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,92.0,3,2.0,False,False,False,220000,2391,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,50.0,2,1.0,False,False,False,155000,3100,2928.57
@@ -5394,6 +5406,7 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,68.0,3,2.0,False,Fa
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,93.0,3,2.0,False,False,False,250000,2688,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,110.0,3,2.0,False,True,True,409000,3718,2928.57
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,111.0,3,2.0,False,False,True,247000,2225,2928.57
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,87.0,3,1.0,False,False,True,159000,1828,1500
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,98.0,3,2.0,False,False,False,310000,3163,2538.1
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,71.0,3,1.0,False,False,False,159000,2239,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,58.0,3,1.0,False,False,False,128000,2207,2319.44
@@ -5401,8 +5414,11 @@ Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,129.0,3,2.0,False,T
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,100.0,3,1.0,False,False,True,400000,4000,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,152.0,4,2.0,False,True,True,354999,2336,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,60.0,2,1.0,False,False,False,145000,2417,2319.44
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,60.0,2,1.0,False,False,False,159000,2650,1500
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,163.0,1,1.0,False,False,False,417000,2558,1500
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,50.0,2,1.0,False,False,False,150000,3000,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,75.0,3,1.0,False,False,False,160000,2133,2319.44
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,78.0,3,2.0,False,False,False,175000,2244,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,70.0,3,1.0,False,False,False,135000,1929,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,82.0,4,4.0,False,False,False,195000,2378,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,115.0,3,2.0,False,False,True,285000,2478,2928.57
@@ -5411,6 +5427,7 @@ Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,94.0,3,2.0,False,Fal
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,102.0,2,2.0,False,False,False,305000,2990,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,80.0,2,1.0,False,False,True,255000,3188,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,62.0,3,1.0,False,False,False,135989,2193,2538.1
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,57.0,3,1.0,False,False,False,155000,2719,1500
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,43.0,2,1.0,False,False,False,130000,3023,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,55.0,2,1.0,False,False,False,155000,2818,2538.1
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,62.0,3,1.0,False,False,False,140000,2258,2319.44
@@ -5418,6 +5435,7 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,58.0,2,1.0,False,Fa
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,110.0,3,2.0,False,False,True,400000,3636,2803.11
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,97.0,3,2.0,False,False,False,220000,2268,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,93.0,3,1.0,False,False,False,277000,2978,2928.57
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,65.0,2,1.0,False,False,False,130000,2000,1500
 Moratalaz,District 12,Media Legua,Neighborhood 83,Dúplex,False,145.0,3,2.0,False,False,False,160000,1103,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,92.0,3,2.0,False,False,False,259000,2815,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,85.0,3,1.0,False,False,True,278000,3271,2538.1
@@ -5433,6 +5451,7 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,71.0,3,1.0,False,Fa
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,70.0,4,1.0,False,False,True,190000,2714,2319.44
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,50.0,3,2.0,False,False,False,200000,4000,2538.1
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,92.0,3,1.0,False,False,False,135000,1467,2538.1
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,47.0,1,1.0,False,False,False,135000,2872,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,75.0,2,1.0,False,False,False,150000,2000,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,99.0,3,2.0,False,False,False,266000,2687,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,133.0,4,2.0,False,False,True,399000,3000,2928.57
@@ -5446,10 +5465,12 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,87.0,4,1.0,False,Fa
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,264.0,5,3.0,False,True,True,750000,2841,2803.11
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,60.0,3,1.0,False,False,False,125000,2083,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,127.0,4,2.0,False,False,False,353000,2780,2319.44
+Moratalaz,District 12,Horcajo,Neighborhood 80,Áticos,False,170.0,3,2.0,False,False,True,450000,2647,1500
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,52.0,2,1.0,False,False,False,155000,2981,2928.57
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,72.0,3,1.0,False,False,False,150000,2083,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,133.0,4,2.0,False,False,True,399000,3000,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,73.0,3,1.0,False,False,False,190000,2603,2538.1
+Moratalaz,District 12,Horcajo,Neighborhood 80,Áticos,False,170.0,3,2.0,False,False,True,450000,2647,1500
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,110.0,4,2.0,False,False,True,350000,3182,2803.11
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,75.0,3,1.0,False,False,False,170000,2267,2319.44
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,95.0,3,2.0,False,False,False,190000,2000,2538.1
@@ -5459,6 +5480,7 @@ Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,75.0,3,1.0,False,Fa
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,220.0,4,3.0,False,False,True,620000,2818,2803.11
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,74.0,2,1.0,False,False,False,198000,2676,2538.1
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,193.0,4,2.0,False,False,True,530000,2746,2803.11
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,67.0,3,2.0,False,False,False,139000,2075,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,73.0,3,1.0,False,False,False,154000,2110,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,79.0,4,2.0,False,False,False,134100,1697,2319.44
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,90.0,2,1.0,False,False,False,305000,3389,2928.57
@@ -5468,9 +5490,11 @@ Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,90.0,3,1.0,False,F
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,72.0,3,1.0,False,False,False,159000,2208,2319.44
 Moratalaz,District 12,Media Legua,Neighborhood 83,Dúplex,False,117.0,3,2.0,False,False,False,165000,1410,2803.11
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,78.0,3,1.0,False,False,False,160000,2051,2319.44
+Moratalaz,District 12,Horcajo,Neighborhood 80,Áticos,False,180.0,5,3.0,False,True,True,700000,3889,1500
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,110.0,4,2.0,False,True,True,430000,3909,2928.57
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,142.0,4,2.0,False,False,True,360000,2535,2928.57
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,99.0,3,2.0,False,False,True,355000,3586,2803.11
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,162.0,4,3.0,False,True,True,425000,2623,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,58.0,2,1.0,False,False,False,149000,2569,2319.44
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,75.0,3,1.0,False,False,False,68900,919,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,136.0,4,2.0,False,False,False,360000,2647,2928.57
@@ -5532,6 +5556,7 @@ Latina,District 10,Los Cármenes,Neighborhood 71,Pisos,False,63.0,1,1.0,False,Fa
 Latina,District 10,Águilas,Neighborhood 66,Pisos,False,73.0,3,1.0,False,False,False,179000,2452,2110.34
 Latina,District 10,Campamento,Neighborhood 68,Pisos,False,65.0,3,1.0,False,False,False,126000,1938,2275.63
 Latina,District 10,Puerta del Ángel,Neighborhood 70,Pisos,False,75.0,3,1.0,False,False,False,180000,2400,2443.62
+Latina,District 10,Cuatro Vientos,Neighborhood 65,Pisos,False,68.0,1,2.0,False,False,False,169000,2485,1500
 Latina,District 10,Aluche,Neighborhood 67,Pisos,False,140.0,4,2.0,False,True,True,420000,3000,2190.48
 Latina,District 10,Aluche,Neighborhood 67,Pisos,False,69.0,3,1.0,False,False,False,76000,1101,2190.48
 Latina,District 10,Campamento,Neighborhood 68,Pisos,False,60.0,2,1.0,False,False,False,105000,1750,2275.63
@@ -7718,6 +7743,7 @@ Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,92.0,3,1.0,False,T
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,61.0,2,1.0,False,False,False,130000,2131,2648.73
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,60.0,1,1.0,False,False,True,195000,3250,2648.73
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,500.0,7,8.0,True,True,True,1090000,2180,3271.96
+Fuencarral,District 8,El Pardo,Neighborhood 47,Casa o chalet,False,100.0,4,1.0,False,False,False,370000,3700,1500
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,376.0,6,7.0,True,True,True,1070000,2846,3271.96
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,64.0,1,1.0,False,False,False,209000,3266,3271.96
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,60.0,3,1.0,False,False,False,138000,2300,2648.73
@@ -7736,6 +7762,7 @@ Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,94.0,3,
 Fuencarral,District 8,Fuentelarreina,Neighborhood 49,Casa o chalet,False,955.0,8,6.0,True,True,True,2600000,2723,3371.55
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,79.0,3,1.0,False,False,False,225000,2848,3222.22
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,60.0,2,1.0,False,False,False,200000,3333,3222.22
+Fuencarral,District 8,El Pardo,Neighborhood 47,Casa o chalet,False,129.0,4,2.0,True,True,True,590000,4574,1500
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Áticos,False,175.0,3,2.0,False,True,True,649000,3709,4256.38
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,185.0,4,3.0,False,True,True,790000,4270,4610.95
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,110.0,2,2.0,False,True,True,550000,5000,4610.95
@@ -7802,6 +7829,7 @@ Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Casa o chalet,False
 Fuencarral,District 8,Fuentelarreina,Neighborhood 49,Casa o chalet,False,950.0,7,7.0,True,True,True,2800000,2947,3371.55
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,270.0,6,3.0,False,True,True,790000,2926,3271.96
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,65.0,2,1.0,False,False,False,226000,3477,3222.22
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,72.0,3,1.0,False,False,False,195000,2708,1500
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Casa o chalet,False,600.0,10,11.0,True,True,True,2400000,4000,2648.73
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,65.0,2,1.0,False,False,False,205000,3154,3222.22
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,53.0,2,1.0,False,False,False,189000,3566,2648.73
@@ -7835,6 +7863,7 @@ Fuencarral,District 8,Mirasierra,Neighborhood 56,Pisos,True,163.0,4,2.0,False,Tr
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Áticos,True,144.0,3,2.0,False,True,False,999000,6938,3695.5
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Áticos,True,145.0,3,2.0,False,True,False,999000,6890,3695.5
 Fuencarral,District 8,Fuentelarreina,Neighborhood 49,Casa o chalet,False,752.0,5,5.0,True,True,True,1800000,2394,3371.55
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,73.0,3,1.0,False,False,False,195000,2671,1500
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Pisos,False,108.0,4,1.0,False,True,True,340000,3148,3695.5
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,179.0,3,2.0,False,True,True,612000,3419,4610.95
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Casa o chalet,False,696.0,5,3.0,True,True,True,2100920,3019,3695.5
@@ -7925,6 +7954,7 @@ Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,165.0,4,3.0,False,T
 Fuencarral,District 8,Fuentelarreina,Neighborhood 49,Casa o chalet,False,675.0,6,5.0,True,True,True,1980000,2933,3371.55
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,110.0,4,3.0,False,False,False,378000,3436,3271.96
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,131.0,3,2.0,False,True,True,549000,4191,4256.38
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,69.0,2,1.0,False,False,False,240000,3478,1500
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Casa o chalet,False,51.0,1,1.0,False,False,False,165000,3235,2648.73
 Fuencarral,District 8,Fuentelarreina,Neighborhood 49,Pisos,False,245.0,4,3.0,False,True,True,700000,2857,3371.55
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,50.0,1,1.0,False,False,True,265000,5300,2648.73
@@ -8002,6 +8032,7 @@ Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,37.0,1,
 Fuencarral,District 8,La Paz,Neighborhood 50,Pisos,False,160.0,4,3.0,False,True,True,670000,4188,3500.0
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,40.0,1,1.0,False,False,False,140000,3500,2648.73
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,121.0,3,2.0,False,True,True,530000,4380,4256.38
+Fuencarral,District 8,El Pardo,Neighborhood 47,Casa o chalet,False,150.0,4,1.0,True,False,False,590000,3933,1500
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,54.0,1,1.0,False,True,True,265000,4907,4610.95
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,104.0,3,2.0,False,True,True,430000,4135,4256.38
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,72.0,3,1.0,False,False,False,230000,3194,3271.96
@@ -8144,6 +8175,7 @@ Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,52.0,2,1.0,False,False,F
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,110.0,2,2.0,False,True,True,430000,3909,4610.95
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,80.0,3,1.0,False,False,False,270000,3375,3222.22
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,160.0,4,2.0,False,True,True,650000,4062,4256.38
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,72.0,2,1.0,False,False,True,250000,3472,1500
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,93.0,3,2.0,False,True,True,490000,5269,4256.38
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,192.0,4,3.0,False,True,True,845000,4401,4256.38
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,265.0,4,4.0,False,True,True,850000,3208,3271.96
@@ -8175,6 +8207,7 @@ Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,93.0,3,1.0,False,F
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Áticos,False,130.0,3,2.0,False,True,True,840000,6462,4610.95
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,110.0,3,2.0,False,True,True,510000,4636,4256.38
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,59.0,2,1.0,False,False,False,230000,3898,3222.22
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,80.0,3,1.0,False,False,False,260000,3250,1500
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Áticos,False,140.0,3,2.0,False,True,True,725000,5179,3271.96
 Fuencarral,District 8,La Paz,Neighborhood 50,Pisos,False,178.0,4,3.0,False,True,True,730000,4101,3500.0
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Casa o chalet,False,70.0,2,1.0,False,False,False,200000,2857,2648.73
@@ -8182,6 +8215,7 @@ Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,53.0,2,1.0,False,False,F
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Casa o chalet,False,320.0,4,3.0,True,True,False,1650000,5156,3695.5
 Fuencarral,District 8,La Paz,Neighborhood 50,Pisos,False,146.0,4,2.0,False,True,True,398000,2726,3500.0
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,101.0,3,2.0,False,True,True,410000,4059,4256.38
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,90.0,4,1.0,False,False,False,290000,3222,1500
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,351.0,5,5.0,True,True,True,800000,2279,3271.96
 Fuencarral,District 8,Pilar,Neighborhood 54,Pisos,False,23.0,0,1.0,False,False,False,115000,5000,3222.22
 Fuencarral,District 8,Tres Olivos - Valverde,Neighborhood 55,Pisos,False,150.0,4,2.0,False,False,False,394000,2627,2648.73
@@ -8387,6 +8421,7 @@ Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,121.0,3,2.0,False
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Casa o chalet,False,402.0,4,5.0,False,True,True,1580000,3930,3695.5
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Pisos,False,58.0,2,1.0,False,False,False,135000,2328,3271.96
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,93.0,2,2.0,False,True,True,395000,4247,4256.38
+Fuencarral,District 8,El Pardo,Neighborhood 47,Pisos,False,75.0,3,1.0,False,False,False,222000,2960,1500
 Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,75.0,2,1.0,False,False,True,335000,4467,4610.95
 Fuencarral,District 8,Las Tablas,Neighborhood 51,Pisos,False,125.0,3,2.0,False,True,True,530000,4240,4256.38
 Fuencarral,District 8,Fuentelarreina,Neighborhood 49,Pisos,False,245.0,5,3.0,False,True,True,750000,3061,3371.55
@@ -8420,6 +8455,7 @@ Fuencarral,District 8,Montecarmelo,Neighborhood 52,Pisos,False,180.0,4,3.0,False
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,84.0,2,2.0,True,False,False,312000,3714,3271.96
 Fuencarral,District 8,Arroyo del Fresno,Neighborhood 48,Pisos,False,95.0,3,2.0,False,True,True,420000,4421,3718.4
 Fuencarral,District 8,La Paz,Neighborhood 50,Pisos,False,150.0,4,2.0,False,False,True,428000,2853,3500.0
+Fuencarral,District 8,El Pardo,Neighborhood 47,Casa o chalet,False,130.0,3,2.0,True,False,False,385000,2962,1500
 Fuencarral,District 8,Mirasierra,Neighborhood 56,Pisos,False,96.0,4,2.0,False,True,True,335000,3490,3695.5
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,299.0,6,6.0,True,False,True,1250000,4181,3271.96
 Fuencarral,District 8,Peñagrande,Neighborhood 53,Casa o chalet,False,234.0,4,4.0,True,False,True,975000,4167,3271.96
@@ -11656,6 +11692,7 @@ Chamberí,District 6,Nuevos Ministerios-Ríos Rosas,Neighborhood 37,Pisos,False,
 Chamberí,District 6,Gaztambide,Neighborhood 34,Pisos,False,85.0,3,2.0,False,False,False,395000,4647,5000.0
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,66.0,2,1.0,False,False,False,174000,2636,2686.93
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,80.0,3,1.0,False,False,False,214900,2686,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,108.0,3,2.0,False,True,True,488000,4519,1500
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,75.0,2,1.0,False,False,False,246900,3292,2900.58
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,83.0,3,1.0,False,False,True,239900,2890,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,67.0,3,1.0,False,False,False,164000,2448,2686.93
@@ -11701,6 +11738,7 @@ Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,65.0,2,1.0,Fal
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,61.0,3,1.0,False,False,False,138000,2262,2578.87
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,50.0,1,1.0,False,False,False,149000,2980,2900.58
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,144.0,4,2.0,False,True,True,540000,3750,4015.76
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,138.0,4,3.0,False,True,True,670000,4855,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,60.0,2,1.0,False,False,False,139900,2332,2686.93
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,60.0,2,1.0,False,False,False,149000,2483,2578.87
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Áticos,False,100.0,2,2.0,False,True,True,375000,3750,2578.87
@@ -11737,6 +11775,7 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,104.0,4,2.0,False,Fa
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,150.0,4,2.0,False,True,True,748000,4987,4098.7
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,90.0,3,2.0,False,False,False,250000,2778,2578.87
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,120.0,4,1.0,False,False,False,299900,2499,3341.09
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Áticos,False,254.0,3,3.0,False,True,True,1200000,4724,1500
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,70.0,2,1.0,False,False,False,298000,4257,2900.58
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,76.0,3,1.0,False,False,False,199900,2630,2686.93
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,120.0,3,2.0,False,True,False,420000,3500,2900.58
@@ -11790,6 +11829,7 @@ Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Casa o chalet,False,226.0,4
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Dúplex,False,516.0,6,6.0,False,True,True,1780000,3450,4235.69
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,86.0,3,1.0,False,False,False,340000,3953,4098.7
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Áticos,False,100.0,2,1.0,False,False,False,279000,2790,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,158.0,3,2.0,False,True,True,650000,4114,1500
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Dúplex,False,35.0,1,1.0,False,False,False,125000,3571,2578.87
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Áticos,False,120.0,2,2.0,False,True,True,840000,7000,4677.53
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Casa o chalet,False,413.0,4,3.0,False,False,True,850000,2058,4677.53
@@ -11908,8 +11948,13 @@ Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,179.0,4,3
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,60.0,1,1.0,False,False,False,132900,2215,2578.87
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,145.0,4,2.0,False,True,True,540000,3724,4015.76
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,55.0,2,1.0,False,False,False,240000,4364,3341.09
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,True,194.0,5,4.0,False,True,False,864748,4457,1500
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,True,194.0,4,3.0,False,True,False,880248,4537,1500
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,True,169.0,3,3.0,False,True,False,825000,4882,1500
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,True,158.0,3,3.0,False,True,False,725654,4593,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,74.0,3,1.0,False,False,False,198000,2676,2686.93
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,59.0,2,1.0,False,False,False,92000,1559,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,150.0,4,3.0,False,True,True,675000,4500,1500
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,113.0,3,2.0,False,True,True,360000,3186,2578.87
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,112.0,3,2.0,False,False,False,390000,3482,2578.87
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,70.0,3,1.0,False,False,False,235000,3357,2686.93
@@ -12130,6 +12175,7 @@ Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,80.0,3,1.0,Fals
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,67.0,3,1.0,False,False,False,138900,2073,2578.87
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,100.0,3,2.0,False,False,False,224000,2240,2686.93
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,62.0,2,1.0,False,False,False,245000,3952,3341.09
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,51.0,1,1.0,False,True,True,307900,6037,1500
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,47.0,2,1.0,False,False,False,126000,2681,2900.58
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,63.0,1,1.0,False,True,False,254000,4032,4235.69
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,177.0,3,2.0,False,True,False,650000,3672,4235.69
@@ -12155,6 +12201,7 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,75.0,3,2.0,False,Fal
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,44.0,2,1.0,False,False,False,125000,2841,2686.93
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,125.0,4,1.0,False,False,True,485000,3880,4235.69
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,65.0,3,1.0,False,False,False,153000,2354,2686.93
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Áticos,False,255.0,4,3.0,False,True,False,1200000,4706,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,63.0,3,1.0,False,False,False,220000,3492,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,63.0,2,1.0,False,False,False,175000,2778,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,59.0,2,1.0,False,False,False,134000,2271,2686.93
@@ -12238,6 +12285,7 @@ Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,80.0,3,1.0,Fal
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,47.0,2,1.0,False,False,False,140000,2979,2900.58
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,60.0,2,1.0,False,False,False,160000,2667,2578.87
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,60.0,3,1.0,False,False,False,180000,3000,2900.58
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,42.0,1,1.0,False,True,True,285000,6786,1500
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,108.0,3,2.0,False,True,True,475000,4398,4098.7
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,58.0,3,1.0,False,False,False,155000,2672,3341.09
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Dúplex,False,90.0,3,1.0,False,False,False,270000,3000,2900.58
@@ -12257,6 +12305,7 @@ Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,75.0,3,1.0,False,F
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,70.0,2,1.0,False,False,False,180000,2571,2900.58
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,110.0,3,2.0,False,True,True,600000,5455,4235.69
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,79.0,2,1.0,False,False,False,340000,4304,4098.7
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,306.0,5,4.0,False,True,True,1150000,3758,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,65.0,3,1.0,False,False,False,144000,2215,2686.93
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Áticos,False,93.0,2,2.0,False,False,False,340000,3656,3341.09
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,106.0,3,2.0,False,False,True,310000,2925,2578.87
@@ -12312,6 +12361,7 @@ Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,100.0,3,1.0,Fal
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,91.0,3,2.0,False,False,False,351000,3857,4015.76
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,78.0,1,1.0,False,False,False,230000,2949,2686.93
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Dúplex,False,180.0,0,1.0,False,True,True,325000,1806,4098.7
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,158.0,3,2.0,False,True,True,595000,3766,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,97.0,2,2.0,False,False,False,299000,3082,2686.93
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,125.0,3,2.0,False,True,True,630000,5040,4015.76
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,94.0,3,2.0,False,False,False,255000,2713,4098.7
@@ -12323,6 +12373,7 @@ Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,160.0,4,3
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,138.0,4,2.0,False,False,False,300000,2174,2578.87
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Dúplex,False,175.0,4,3.0,False,False,False,450000,2571,3341.09
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,112.0,3,1.0,False,False,True,257000,2295,2686.93
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Dúplex,False,200.0,5,4.0,False,True,True,799000,3995,1500
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,52.0,2,1.0,False,False,False,179000,3442,2900.58
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,34.0,1,1.0,False,False,False,115000,3382,4015.76
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,76.0,3,1.0,False,False,False,205000,2697,2686.93
@@ -12336,12 +12387,14 @@ Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,False,137.0,4,3.0,False,Tr
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,55.0,1,1.0,False,False,False,230000,4182,2900.58
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,65.0,2,1.0,False,False,False,175000,2692,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,52.0,2,1.0,False,False,False,126000,2423,2686.93
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,159.0,3,2.0,False,True,True,650000,4088,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,60.0,1,1.0,False,False,False,195000,3250,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,66.0,3,1.0,False,False,False,156000,2364,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,108.0,3,2.0,False,False,False,256000,2370,2686.93
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,77.0,2,1.0,False,False,False,225000,2922,3341.09
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,90.0,3,2.0,False,False,True,269000,2989,2686.93
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,False,62.0,2,1.0,False,True,False,260000,4194,4677.53
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,225.0,5,3.0,False,False,True,950000,4222,1500
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,88.0,2,2.0,False,True,False,358000,4068,4235.69
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Dúplex,False,300.0,5,3.0,False,True,True,1150000,3833,4098.7
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Dúplex,False,140.0,2,2.0,False,True,True,420000,3000,4235.69
@@ -12352,6 +12405,7 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,64.0,2,1.0,False,Fal
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,76.0,3,1.0,False,False,False,190000,2500,2686.93
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,64.0,2,1.0,False,False,False,215000,3359,4015.76
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,45.0,1,1.0,False,False,False,119000,2644,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,158.0,3,3.0,False,True,True,755000,4778,1500
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,54.0,3,1.0,False,False,False,146000,2704,2578.87
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,46.0,1,1.0,False,False,False,179000,3891,2578.87
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Dúplex,False,96.0,2,2.0,False,False,False,270000,2812,2900.58
@@ -12483,6 +12537,7 @@ Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,100.0,3,1.0,Fa
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,80.0,3,1.0,False,False,False,175000,2188,2686.93
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,76.0,3,1.0,False,False,False,197000,2592,4235.69
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,54.0,3,1.0,False,False,False,146000,2704,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,151.0,3,2.0,False,True,True,650000,4305,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,80.0,3,1.0,False,False,False,180000,2250,2686.93
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,73.0,3,1.0,False,False,False,185000,2534,2578.87
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,89.0,2,1.0,False,False,False,250000,2809,2686.93
@@ -12511,6 +12566,7 @@ Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,80.0,4,1.0,Fals
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,85.0,3,1.0,False,False,False,177000,2082,2578.87
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,64.0,3,1.0,False,False,False,162500,2539,2578.87
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,115.0,4,2.0,False,False,False,250000,2174,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,74.0,1,1.0,False,True,True,269000,3635,1500
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,165.0,4,3.0,False,True,False,735000,4455,4235.69
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,181.0,5,3.0,False,True,False,597000,3298,4235.69
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,119.0,2,2.0,False,True,True,535000,4496,4235.69
@@ -12527,6 +12583,8 @@ Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,True,78.0,2,1.0,Fals
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,95.0,3,2.0,False,False,True,275000,2895,2686.93
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,83.0,1,1.0,False,False,True,385000,4639,2900.58
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,85.0,2,1.0,False,False,False,150000,1765,2686.93
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,171.0,4,3.0,False,False,False,495000,2895,1500
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,121.0,2,2.0,False,True,True,490000,4050,1500
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Áticos,False,300.0,4,3.0,False,True,True,960000,3200,4235.69
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,65.0,2,1.0,False,False,False,200000,3077,2900.58
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,58.0,2,1.0,False,False,False,132000,2276,2578.87
@@ -12551,8 +12609,11 @@ Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,194.0,4,4.0,Fal
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Áticos,False,520.0,5,5.0,False,True,True,1890000,3635,4098.7
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Áticos,False,450.0,4,6.0,False,True,True,1590000,3533,4235.69
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,147.0,4,2.0,False,False,False,370000,2517,2686.93
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,180.0,4,3.0,False,True,True,880248,4890,1500
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,124.0,3,2.0,False,True,True,560000,4516,4235.69
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,104.0,3,2.0,False,True,True,414000,3981,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,194.0,5,3.0,False,True,True,864748,4457,1500
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,158.0,3,3.0,False,True,False,725654,4593,1500
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,False,64.0,2,1.0,False,False,False,260000,4062,4677.53
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,90.0,2,2.0,False,True,True,425000,4722,2578.87
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Pisos,False,60.0,1,1.0,False,False,False,111900,1865,2900.58
@@ -12656,18 +12717,22 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,True,62.0,1,1.0,False,Fals
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,True,54.0,1,1.0,False,False,False,207000,3833,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,True,76.0,1,1.0,False,False,False,268000,3526,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,86.0,3,1.0,False,False,False,194900,2266,2686.93
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,319.0,5,4.0,False,True,True,1045000,3276,1500
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Áticos,False,180.0,4,3.0,False,True,True,950000,5278,4098.7
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,71.0,1,1.0,False,False,False,209900,2956,3341.09
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,171.0,4,3.0,False,True,True,950000,5556,4098.7
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,200.0,4,3.0,False,False,True,730000,3650,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,51.0,2,1.0,False,False,False,160000,3137,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,53.0,2,1.0,False,False,False,160000,3019,2686.93
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,175.0,4,2.0,False,False,False,219000,1251,2686.93
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,345.0,5,4.0,False,True,True,1375000,3986,4098.7
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,345.0,5,4.0,False,True,True,1375000,3986,1500
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Dúplex,False,60.0,2,2.0,False,False,False,130000,2167,2900.58
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,90.0,2,2.0,False,True,True,385000,4278,3341.09
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,140.0,4,3.0,False,True,False,525000,3750,4015.76
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,50.0,1,1.0,False,False,False,165000,3300,2578.87
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Áticos,True,104.0,2,2.0,False,True,True,838000,8058,4677.53
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,250.0,5,6.0,False,True,True,1490000,5960,1500
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,65.0,3,1.0,False,False,False,145000,2231,2686.93
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,56.0,3,1.0,False,False,False,144000,2571,2578.87
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,84.0,4,1.0,False,False,False,235000,2798,3341.09
@@ -12773,6 +12838,7 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,79.0,3,1.0,False,Fal
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,64.0,2,1.0,False,False,False,137000,2141,2578.87
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Áticos,False,56.0,1,1.0,False,True,True,440000,7857,4677.53
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Pisos,False,144.0,4,2.0,False,True,True,550000,3819,4015.76
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,158.0,3,2.0,False,False,True,650000,4114,1500
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,62.0,1,1.0,False,False,False,180000,2903,3341.09
 Ciudad Lineal,District 7,Quintana,Neighborhood 40,Casa o chalet,False,83.0,2,2.0,True,False,False,275000,3313,2900.58
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,93.0,3,1.0,False,False,False,238000,2559,2686.93
@@ -12781,6 +12847,7 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,77.0,3,1.0,False,Fal
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,86.0,3,2.0,False,False,False,237000,2756,2578.87
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,61.0,2,1.0,False,False,False,159900,2621,2686.93
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,91.0,3,1.0,False,False,False,229500,2522,3341.09
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Dúplex,False,342.0,4,5.0,False,True,True,1319000,3857,1500
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,True,106.0,2,2.0,False,True,True,750000,7075,4677.53
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,True,128.0,3,2.0,False,True,True,880000,6875,4677.53
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,True,106.0,2,2.0,False,True,True,740000,6981,4677.53
@@ -12862,6 +12929,7 @@ Ciudad Lineal,District 7,Concepción,Neighborhood 38,Pisos,False,77.0,3,1.0,Fals
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,64.0,2,1.0,False,False,False,158000,2469,2578.87
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,208.0,3,3.0,False,True,True,875000,4207,4235.69
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,181.0,5,3.0,False,True,False,597000,3298,4235.69
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,381.0,5,6.0,False,True,True,1490000,3911,1500
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,310.0,4,3.0,False,True,True,990000,3194,4235.69
 Chamartín,District 5,El Viso,Neighborhood 28,Pisos,False,298.0,4,4.0,False,False,False,1600000,5369,6255.45
 Chamartín,District 5,Nueva España,Neighborhood 29,Pisos,False,126.0,2,2.0,False,False,True,590000,4683,5363.75
@@ -19601,6 +19669,7 @@ Retiro,District 14,Pacífico,Neighborhood 95,Pisos,False,78.0,3,1.0,False,False,
 Retiro,District 14,Jerónimos,Neighborhood 94,Pisos,False,218.0,4,2.0,False,False,True,2300000,10550,6739.32
 Retiro,District 14,Ibiza,Neighborhood 93,Pisos,False,181.0,4,2.0,False,False,True,1550000,8564,5492.17
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,92.0,3,2.0,False,False,False,265000,2880,2928.57
+Moratalaz,District 12,Horcajo,Neighborhood 80,Pisos,False,162.0,4,3.0,False,True,True,425000,2623,1500
 Puente de Vallecas,District 13,Palomeras sureste,Neighborhood 87,Pisos,False,59.0,3,1.0,False,False,False,135000,2288,2076.58
 Puente de Vallecas,District 13,Palomeras Bajas,Neighborhood 86,Pisos,False,53.0,2,1.0,False,False,False,96000,1811,1983.7
 Puente de Vallecas,District 13,Palomeras sureste,Neighborhood 87,Pisos,False,65.0,3,1.0,False,False,False,125000,1923,2076.58
@@ -19829,6 +19898,8 @@ Retiro,District 14,Ibiza,Neighborhood 93,Pisos,False,150.0,4,3.0,False,False,Tru
 Retiro,District 14,Ibiza,Neighborhood 93,Pisos,False,121.0,4,2.0,False,False,False,460000,3802,5492.17
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,169.0,3,2.0,False,True,True,620000,3669,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,91.0,3,1.0,False,False,False,277000,3044,2928.57
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,100.0,3,1.0,False,False,False,215000,2150,1500
+Moratalaz,District 12,Pavones,Neighborhood 79,Áticos,False,87.0,3,1.0,False,False,False,169500,1989,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,60.0,2,1.0,False,False,False,165000,2750,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,60.0,3,1.0,False,False,False,179900,2998,2319.44
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,64.0,3,1.0,False,False,False,157000,2453,2319.44
@@ -19842,6 +19913,7 @@ Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,157.0,4,2.0,False,F
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,112.0,4,2.0,False,False,False,250000,2232,2538.1
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,110.0,3,2.0,False,False,False,375000,3409,2803.11
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,105.0,4,2.0,False,False,True,392000,3800,2928.57
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,147.0,4,2.0,False,False,True,289000,1966,1500
 Moratalaz,District 12,Fontarrón,Neighborhood 81,Pisos,False,107.0,3,2.0,False,False,True,270000,2523,2319.44
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,113.0,5,2.0,False,False,False,239000,2212,2538.1
 Moratalaz,District 12,Media Legua,Neighborhood 83,Pisos,False,136.0,4,2.0,False,False,True,375000,2757,2803.11
@@ -19851,6 +19923,7 @@ Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,95.0,3,2.0,False,Fa
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,93.0,3,2.0,False,False,False,265000,2849,2538.1
 Moratalaz,District 12,Marroquina,Neighborhood 82,Pisos,False,94.0,3,2.0,False,False,False,243000,2585,2928.57
 Moratalaz,District 12,Vinateros,Neighborhood 84,Pisos,False,82.0,3,1.0,False,False,True,289000,3524,2538.1
+Moratalaz,District 12,Pavones,Neighborhood 79,Pisos,False,70.0,3,1.0,False,False,False,143000,2043,1500
 Puente de Vallecas,District 13,Palomeras sureste,Neighborhood 87,Pisos,False,105.0,3,2.0,False,False,False,239900,2285,2076.58
 Puente de Vallecas,District 13,San Diego,Neighborhood 89,Pisos,False,123.0,4,1.0,False,False,False,195000,1585,2007.79
 Puente de Vallecas,District 13,Entrevías,Neighborhood 85,Pisos,False,107.0,3,2.0,False,False,True,219900,2055,1574.36
@@ -20025,6 +20098,7 @@ Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,81.0,2,1.0,False,Fal
 Ciudad Lineal,District 7,San Pascual,Neighborhood 41,Casa o chalet,False,200.0,4,3.0,True,False,True,750000,3750,4015.76
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,False,280.0,6,6.0,False,True,True,1430000,5107,4677.53
 Ciudad Lineal,District 7,Concepción,Neighborhood 38,Casa o chalet,False,250.0,4,3.0,True,False,True,845000,3380,3341.09
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Pisos,False,381.0,5,5.0,False,True,True,1490000,3911,1500
 Ciudad Lineal,District 7,Colina,Neighborhood 44,Pisos,False,350.0,6,5.0,False,True,True,1430000,4086,4677.53
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,237.0,5,3.0,False,True,True,1020000,4304,4098.7
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,80.0,3,1.0,False,False,False,214900,2686,2578.87
@@ -20034,7 +20108,9 @@ Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,156.0,4,3.0,Fal
 Ciudad Lineal,District 7,San Juan Bautista,Neighborhood 46,Pisos,False,78.0,1,1.0,False,True,True,340000,4359,4098.7
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,275.0,5,3.0,False,True,True,850000,3091,4235.69
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,173.0,3,2.0,False,True,True,650000,3757,4235.69
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Áticos,False,427.0,5,5.0,False,True,True,1190000,2787,1500
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,55.0,2,1.0,False,False,False,179900,3271,2578.87
+Ciudad Lineal,District 7,Atalaya,Neighborhood 43,Áticos,False,300.0,5,5.0,False,True,True,1190000,3967,1500
 Ciudad Lineal,District 7,Costillares,Neighborhood 45,Pisos,False,123.0,3,2.0,False,False,True,425000,3455,4235.69
 Ciudad Lineal,District 7,Ventas,Neighborhood 42,Pisos,False,50.0,2,1.0,False,False,False,169900,3398,2686.93
 Ciudad Lineal,District 7,Pueblo Nuevo,Neighborhood 39,Pisos,False,65.0,2,1.0,False,False,False,159900,2460,2578.87
