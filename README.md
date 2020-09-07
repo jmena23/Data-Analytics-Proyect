@@ -27,7 +27,7 @@ Los pasos que se han seguido para el desarrollo de este proyecto son los siguien
 
 5 - Creación de un fichero para elecciones a demanda en base a parámetros del dataset.
 
-## Recursos
+## Organización del proyecto
 
 1 - Archivo Data-Cleaning.ipynb donde se realiza la limpieza de datos.
 
