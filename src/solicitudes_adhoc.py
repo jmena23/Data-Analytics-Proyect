@@ -3,6 +3,7 @@ import seaborn as sns
 
 def barrio_distrito(df, zona):
     """
+    Con esta función puedes saber los barrios que hay en cada distrito de Madrid:
     zona = distrito de Madrid
     """
     return df["barrio"][df.distrito == zona].unique()
@@ -23,6 +24,7 @@ def evolucion_precios_distrito(df, zona):
 
 def opcion_barrio(df, bar):
     """
+    Con esta función podrás ver un gráfico donde se muestran los activos en venta por barrios:
     bar = barrio de un distrito de Madrid
     """
     opciones_barrio = df[df.barrio == bar].reset_index()
@@ -33,6 +35,7 @@ def opcion_barrio(df, bar):
 
 def m2(df, zona, bar, hab, ban, m2, precio):
     """
+    Con esta función podrás elegir el alojamiento que más se adecue a tus necesidades:
     df = Dataframe
     distrito = class str - Elija un distrito de Madrid
     bar = type str - barrio del distrito que eligió en distrito
