@@ -7,7 +7,7 @@
 ## Objetivo
 
 Eres el nuevo analista de datos de tu empresa, acabas de incorporarte y te han encargado un marrón del que no puedes escapar. 
-Hay una reunión urgente el próximo martes con un comprador súper interesado en el mercado inmobiliario de Madrid.
+Hay una reunión urgente el próximo martes con un comprador super interesado en el mercado inmobiliario de Madrid.
 Tienes que convencer a esas personas de que tu producto/servicio es increíble y solo te han dejado un dataset...crees que no vas a conseguirlo, pero vas a limpiarlo, analizarlo y con la magia de los gráficos lograrás convencer a todo el mundo de LO QUE QUIERAS.
 
 * El dataset escogido para este proyecto lo puedes encontrar aquí: 
