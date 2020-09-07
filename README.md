@@ -1,7 +1,8 @@
 # Data-Analytics-Proyect
  Segundo proyecto Ironhack - Bootcamp Data Analytics: ¡Soy analista de datos!
 
- ![unnamed](https://user-images.githubusercontent.com/61025562/92392996-12318b00-f117-11ea-905a-512b2b732002.png)
+![bigstock-engineering-automation-buildin-39420793](https://user-images.githubusercontent.com/61025562/92395332-13fd4d80-f11b-11ea-8f88-a5ee56d78d74.jpg)
+
 
 ## Objetivo
 
@@ -17,21 +18,30 @@ https://www.kaggle.com/mirbektoktogaraev/madrid-real-estate-market
 Los pasos que se han seguido para el desarrollo de este proyecto son los siguientes:
 
 1 - Análisis exploratorio de los valores del dataset.
+
 2 - Limpieza del dataset dado con la libreria Pandas y con la ayuda de Regex, para su posterior análisis.
+
 3 - Planteamiento de una propuesta válida para la reunión en base a los datos obtenidos.
+
 4 - Visualización de los diferentes planteamientos con Matplotlib y Seaborn.
+
 5 - Creación de un fichero para elecciones a demanda en base a parámetros del dataset.
 
 ## Recursos
 
 1 - Archivo Data-Cleaning.ipynb donde se realiza la limpieza de datos.
+
 2 - Archivo Storytelling.ipynb donde se realiza el análisis y reporte final.
+
 3 - Archivo Ad-hoc.ipynb donde se pueden hacer consultas a demanda.
 
 ## Enlaces de interés
 
 https://pandas.pydata.org/docs/
+
 https://matplotlib.org/3.3.1/contents.html
+
 https://seaborn.pydata.org
+
 https://docs.python.org/3/library/re.html
 
